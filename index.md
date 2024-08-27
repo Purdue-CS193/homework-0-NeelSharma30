@@ -1,6 +1,3 @@
-```markdown
-Syntax highlighted code block
-
 # Neel's First CS193 Homework
 
 - I enjoy that the class has no tests!
